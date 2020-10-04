@@ -1,2 +1,2 @@
-# SpeechEmotionDetector
-This is a learning project which detects emotions from a sample of speech dataset
+# Neural Network
+This is a learning project which has all Neural Networks implementation.
